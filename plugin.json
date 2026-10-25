@@ -1,0 +1,1 @@
+{"format":"uartix-plugin","schemaVersion":3,"id":"user.midnight","version":"1.0.0","name":"Midnight Blue Theme","contributes":{"themes":[{"id":"midnight","title":"Midnight Blue","entry":"theme.css"}]},"permissions":{"ui":{"theme":true}}}
